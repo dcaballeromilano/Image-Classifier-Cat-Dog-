@@ -1,1 +1,3 @@
-# Image-Classifier-Cat-Dog-
+# Image-Classifier-Cat-Dog
+
+Run Image Recognition MATLAB LiveScript
